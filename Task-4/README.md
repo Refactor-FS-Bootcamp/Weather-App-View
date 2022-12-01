@@ -23,3 +23,5 @@
 - On entering a letter the city having that letter should stay.
 - Then click on the city you want to add.
 - As soon as you click on the + sign in front of the city a message of City added should appear in green. 
+
+<a href="https://ibb.co/sCdh9df"><img src="https://i.ibb.co/42ncRnq/Screenshot-2022-12-01-at-1-41-49-PM.png" alt="Screenshot-2022-12-01-at-1-41-49-PM" border="0"></a>
